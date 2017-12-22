@@ -1,5 +1,3 @@
-
-
 PFont font;
 TableReader tablereader;
 ArrayList<Item> items;

@@ -1,6 +1,3 @@
-/**
- * This class represents 
- */
 class Axis {
   static final color axisColor = 0;
   String name;

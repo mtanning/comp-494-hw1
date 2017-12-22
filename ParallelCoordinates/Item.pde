@@ -1,6 +1,3 @@
-/**
- * This class represents 
- */
 class Item {
   color lineColor;
   TableRow row;

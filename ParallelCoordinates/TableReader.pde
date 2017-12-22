@@ -1,6 +1,3 @@
-/**
- * This class represents
- */
 class TableReader {
 
   Table table;
